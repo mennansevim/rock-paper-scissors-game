@@ -3,6 +3,6 @@ Javascript
 
 A game of "Rock Paper Scissors"
 
-Screen
-![image](https://user-images.githubusercontent.com/40278697/198714998-3657adcf-e86e-4fc8-a3cd-1d2dcb892aa5.png)
+Screenshot
 
+![image](https://user-images.githubusercontent.com/40278697/198715165-ebe4cca5-7912-491a-b0b2-df8bdf65a76b.png)
